@@ -1,0 +1,86 @@
+
+mits@mits-ThinkCentre-M73:~/Nithin/Quick$ ./a.out 
+	Enter the number of elements to be Inserted	5
+	Enter the elements of array	564
+231
+212
+897
+654
+	Sorted elements :: 212 231 564 654 897 
+
+
+
+mits@mits-ThinkCentre-M73:~/Nithin/Merge$ ./a.out 
+	Enter the number of elements to be Inserted	5
+	Enter the elements of array	897 
+564
+987
+423
+654
+	Sorted numbers ::	423 564 654 897 987 
+
+
+
+mits@mits-ThinkCentre-M73:~/Nithin/Heap$ ./a.out 
+	Enter the number of elements to be inserted	5
+	Enter elements of array ::	546 
+132
+215 
+762 
+222
+	Sorted array ::	132  215  222  546  762
+	
+
+
+mits@mits-ThinkCentre-M73:~/Nithin/HashC$ ./a.out 
+
+	MENU
+	====
+	1. Insert
+	2. Search
+	3. Display
+	4. Exit
+
+	Enter your choice	1
+	Enter element to be inserted	1
+	Inserted successfully
+
+	MENU
+	====
+	1. Insert
+	2. Search
+	3. Display
+	4. Exit
+
+	Enter your choice	1
+	Enter element to be inserted	2
+	Inserted successfully
+
+	MENU
+	====
+	1. Insert
+	2. Search
+	3. Display
+	4. Exit
+
+	Enter your choice	3
+	1  	2  
+	MENU
+	====
+	1. Insert
+	2. Search
+	3. Display
+	4. Exit
+
+	Enter your choice	2
+	Enter element to be searched	1
+	Element found at 1
+	MENU
+	====
+	1. Insert
+	2. Search
+	3. Display
+	4. Exit
+
+	Enter your choice	4
+
